@@ -2,6 +2,8 @@
   "id": "041-christmas-forest-free",
   "title": "041 Christmas forest Free",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/041-Christmas-forest-Free/main/module.json",
+  "download": "https://github.com/D20dragon/041-Christmas-forest-Free/releases/download/1.0.0/041-christmas-forest-free.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "13"
